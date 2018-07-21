@@ -105,3 +105,4 @@ venv.bak/
 
 # ignore these files
 matching.py
+.DS_Store
